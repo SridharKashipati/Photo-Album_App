@@ -1,0 +1,2 @@
+rootProject.name = "Photo Frame Application"
+include ':app'

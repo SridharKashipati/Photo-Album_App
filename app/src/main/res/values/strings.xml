@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Photo Frame Application</string>
+    <string name="title" >Photo Album</string>
+    <string name="prev" >Previous</string>
+    <string name="nxt" >Next</string>
+    <string name="img" />
+</resources>
